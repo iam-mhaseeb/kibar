@@ -1,6 +1,5 @@
 # kibar
-An open source light weight boilerplate implemenration of scrapping in Python.
-
+An open source light weight boilerplate implementation of scrapping in Python.
 ## Installation
 
 Installation is simplest:
