@@ -16,7 +16,7 @@ Installation is simplest:
 Check out A simple usage example for a short intro. A sample usage is:
 
 Go to `scrapper.py` change url to your url and then run:
-```python scrapper,py``` (to start scrapping)
+```python scrapper.py``` (to start scrapping)
 
 
 ## Contributing
