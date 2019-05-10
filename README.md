@@ -7,7 +7,7 @@ Installation is simplest:
 
 1. Clone the repository
 2. Install dependencies 
-3. Run with command `python scrapper,py` to get started
+3. Run with command `python scrapper.py` to get started
 4. You are good to go!    
 
 
